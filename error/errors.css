@@ -457,7 +457,7 @@
 }
 
 #yjs-wrapper .yjs-btn-accept span {
-	background: transparent url('/error/images/baidu_error_icons.png') 0 -807px;
+	background: transparent url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/baidu_error_icons.png') 0 -807px;
 	display: block;
 	font-size: 1.75em;
 	height: 20px;
@@ -826,7 +826,7 @@
 }
 
 #yjs-wrapper #yjs-error-details .yjs-status-item+.yjs-status-item:before {
-	background: transparent url('/error/images/baidu_error_icons.png') 0 -734px no-repeat;
+	background: transparent url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/baidu_error_icons.png') 0 -734px no-repeat;
 	content: '';
 	display: block;
 	left: 0;
@@ -941,7 +941,7 @@
 }
 
 #yjs-wrapper #yjs-error-details .yjs-captcha-actions a span {
-	background: transparent url('/error/images/baidu_error_icons.png') no-repeat;
+	background: transparent url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/baidu_error_icons.png') no-repeat;
 	display: block;
 	height: 20px;
 	left: 50%;
@@ -967,7 +967,7 @@
 }
 
 #yjs-wrapper #yjs-error-details .yjs-screenshot-container {
-	background: #fff url('/error/images/browser-bar.png') no-repeat 0 0;
+	background: #fff url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/browser-bar.png') no-repeat 0 0;
 	max-height: 400px;
 	max-width: 100%;
 	overflow: hidden;
@@ -981,7 +981,7 @@
 }
 
 #yjs-wrapper #yjs-error-details .yjs-screenshot-container .yjs-no-screenshot {
-	background: transparent url('/error/images/baidu_error_icons.png') 0 -175px;
+	background: transparent url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/baidu_error_icons.png') 0 -175px;
 	display: block;
 	height: 158px;
 	left: 25%;
@@ -993,7 +993,7 @@
 }
 
 #yjs-wrapper #yjs-error-details .yjs-screenshot-container .yjs-no-screenshot.error {
-	background: transparent url('/error/images/baidu_error_icons.png') 0 0 no-repeat;
+	background: transparent url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/baidu_error_icons.png') 0 0 no-repeat;
 	height: 175px
 }
 
@@ -1015,7 +1015,7 @@
 }
 
 #yjs-wrapper .yjs-icon,#yjs-wrapper .yjs-icon-status {
-	background: transparent url('/error/images/baidu_error_icons.png') no-repeat
+	background: transparent url('https://cdn.jsdelivr.net/gh/xyjoey/cdn@master/error/baidu_error_icons.png') no-repeat
 }
 
 #yjs-wrapper .yjs-icon-ok {
